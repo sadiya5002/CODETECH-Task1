@@ -16,10 +16,10 @@ DURATION: October 10 2024 to November 10 2024
 
 MENTOR:Santosh Kumar
 
-Overview of the Project:
-Project:
+## Overview of the Project:
+### Project:
 To-do list web application.
-objective:
+### objective:
 To-do list web applications are designed to help users manage tasks effectively. Their main objectives include:
 
 1. Task Organization: Help users categorize and prioritize tasks by creating, organizing, and sorting them in various lists or sections.
