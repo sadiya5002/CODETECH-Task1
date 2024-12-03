@@ -1,4 +1,4 @@
-# CODETECH-Task1
+# To-do List 
 
 
 https://github.com/user-attachments/assets/e6372865-ce4f-4600-95df-719bc1faa6c5
@@ -6,15 +6,10 @@ https://github.com/user-attachments/assets/e6372865-ce4f-4600-95df-719bc1faa6c5
 
 NAME: Sadiya Naushad Shaikh.
 
-COMPANY: CODETECH IT SOLUTIONS
-
-ID:CTO8DS915
 
 DOMAIN:Web development
 
-DURATION: October 10 2024 to November 10 2024
 
-MENTOR:Santosh Kumar
 
 ## Overview of the Project:
 ### Project:
